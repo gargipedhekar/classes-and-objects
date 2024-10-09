@@ -17,19 +17,19 @@ class Student {
 
 int main(){
     Student s1;
-    s1.name="Siddhnat";
+    s1.name="Gargi";
     s1.branch="E&TC";
     s1.year="Second";
-    s1.result=8.00;
+    s1.result=9.00;
     
     Student s2;
-    s2.name="Devkarthik";
+    s2.name="Arya";
     s2.branch="E&TC";
     s2.year="Second";
     s2.result=9.00;
     
     Student s3;
-    s3.name="Om";
+    s3.name="Shravani";
     s3.branch="E&TC";
     s3.year="Second";
     s3.result=8.00;
